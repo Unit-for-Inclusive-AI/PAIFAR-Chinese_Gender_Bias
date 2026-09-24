@@ -1,0 +1,51 @@
+﻿l1_id,l1_category_zh,l1_category_en,l2_id,l2_category_zh,l2_category_en,count,dataset_share,within_l1_share
+N1,一、指称已知性别的具体个人,Specific Individuals of Known Gender,N1.1,1.1 姓名与社会称谓,Personal Names and Social Titles,27,0.03765690376569038,0.20454545454545456
+N1,一、指称已知性别的具体个人,Specific Individuals of Known Gender,N1.2,1.2 人称代词,Personal Pronouns,26,0.03626220362622036,0.19696969696969696
+N1,一、指称已知性别的具体个人,Specific Individuals of Known Gender,N1.3,1.3 血亲与姻亲称谓,Kinship and Affinal Terms,37,0.05160390516039052,0.2803030303030303
+N1,一、指称已知性别的具体个人,Specific Individuals of Known Gender,N1.4,1.4 伴侣与恋爱关系,Partners and Romantic Relationships,22,0.030683403068340307,0.16666666666666666
+N1,一、指称已知性别的具体个人,Specific Individuals of Known Gender,N1.5,1.5 社会角色中的具体个人,Specific Individuals in Social Roles,20,0.02789400278940028,0.15151515151515152
+N2,二、生理与医学必需,Biologically and Medically Necessary Gender Information,N2.1,2.1 生殖与生育,Reproduction and Childbearing,25,0.03486750348675035,0.25510204081632654
+N2,二、生理与医学必需,Biologically and Medically Necessary Gender Information,N2.2,2.2 生理周期与内分泌,Menstrual Cycles and Endocrine Processes,17,0.023709902370990237,0.17346938775510204
+N2,二、生理与医学必需,Biologically and Medically Necessary Gender Information,N2.3,2.3 性别特异性器官与疾病,Sex-Specific Organs and Diseases,19,0.026499302649930265,0.19387755102040816
+N2,二、生理与医学必需,Biologically and Medically Necessary Gender Information,N2.4,2.4 药理与诊疗差异,Pharmacological and Clinical Differences,15,0.02092050209205021,0.15306122448979592
+N2,二、生理与医学必需,Biologically and Medically Necessary Gender Information,N2.5,2.5 性别确认医疗与性健康,Gender-Affirming Care and Sexual Health,9,0.012552301255230125,0.09183673469387756
+N2,二、生理与医学必需,Biologically and Medically Necessary Gender Information,N2.6,2.6 鉴定与研究场景,Identification and Research Contexts,13,0.01813110181311018,0.1326530612244898
+N3,三、制度性与统计性区分,Institutionally or Statistically Necessary Gender Distinctions,N3.1,3.1 法律与行政身份,Legal and Administrative Status,20,0.02789400278940028,0.1941747572815534
+N3,三、制度性与统计性区分,Institutionally or Statistically Necessary Gender Distinctions,N3.2,3.2 劳动与社会保障,Employment and Social Security,13,0.01813110181311018,0.1262135922330097
+N3,三、制度性与统计性区分,Institutionally or Statistically Necessary Gender Distinctions,N3.3,3.3 体育竞技分级,Sports Classification,16,0.022315202231520222,0.1553398058252427
+N3,三、制度性与统计性区分,Institutionally or Statistically Necessary Gender Distinctions,N3.4,3.4 空间与设施,Spaces and Facilities,8,0.011157601115760111,0.07766990291262135
+N3,三、制度性与统计性区分,Institutionally or Statistically Necessary Gender Distinctions,N3.5,3.5 统计、监测与研究,"Statistics, Monitoring, and Research",22,0.030683403068340307,0.21359223300970873
+N3,三、制度性与统计性区分,Institutionally or Statistically Necessary Gender Distinctions,N3.6,3.6 平权、保护与专项服务,"Equality, Protection, and Targeted Services",16,0.022315202231520222,0.1553398058252427
+N3,三、制度性与统计性区分,Institutionally or Statistically Necessary Gender Distinctions,N3.7,3.7 宗教与文化传统实践,Religious and Cultural Practices,8,0.011157601115760111,0.07766990291262135
+N4,四、专有名词与固定名称,Proper Names and Fixed Designations,N4.1,4.1 法律法规,Laws and Regulations,13,0.01813110181311018,0.1262135922330097
+N4,四、专有名词与固定名称,Proper Names and Fixed Designations,N4.2,4.2 机构、组织与场所,"Institutions, Organizations, and Venues",18,0.02510460251046025,0.17475728155339806
+N4,四、专有名词与固定名称,Proper Names and Fixed Designations,N4.3,4.3 奖项、荣誉与称号,"Awards, Honors, and Titles",4,0.005578800557880056,0.038834951456310676
+N4,四、专有名词与固定名称,Proper Names and Fixed Designations,N4.4,4.4 节日与纪念日,Festivals and Commemorative Days,13,0.01813110181311018,0.1262135922330097
+N4,四、专有名词与固定名称,Proper Names and Fixed Designations,N4.5,4.5 作品名与文化产品,Work Titles and Cultural Products,14,0.019525801952580194,0.13592233009708737
+N4,四、专有名词与固定名称,Proper Names and Fixed Designations,N4.6,4.6 历史与制度术语,Historical and Institutional Terms,15,0.02092050209205021,0.14563106796116504
+N4,四、专有名词与固定名称,Proper Names and Fixed Designations,N4.7,4.7 学术与批判性概念,Academic and Critical Concepts,16,0.022315202231520222,0.1553398058252427
+N4,四、专有名词与固定名称,Proper Names and Fixed Designations,N4.8,4.8 品牌、产品与商业名称,"Brands, Products, and Commercial Names",10,0.01394700139470014,0.0970873786407767
+N5,五、引用与转述,Quotations and Reported Speech,N5.1,5.1 直接引语,Direct Quotations,19,0.026499302649930265,0.2087912087912088
+N5,五、引用与转述,Quotations and Reported Speech,N5.2,5.2 文献与史料,Documents and Historical Sources,14,0.019525801952580194,0.15384615384615385
+N5,五、引用与转述,Quotations and Reported Speech,N5.3,5.3 法律与官方文书原件,Original Legal and Official Documents,16,0.022315202231520222,0.17582417582417584
+N5,五、引用与转述,Quotations and Reported Speech,N5.4,5.4 研究与调查材料,Research and Survey Materials,17,0.023709902370990237,0.18681318681318682
+N5,五、引用与转述,Quotations and Reported Speech,N5.5,5.5 批判性转述与举例,Critical Reporting and Illustrative Examples,19,0.026499302649930265,0.2087912087912088
+N5,五、引用与转述,Quotations and Reported Speech,N5.6,5.6 二手转述与新闻报道,Secondary Reporting and News Coverage,6,0.008368200836820083,0.06593406593406594
+N6,六、自我认同与自称,Self-Identification and Self-Reference,N6.1,6.1 自我描述的性别标签,Self-Described Gender Labels,19,0.026499302649930265,0.3220338983050847
+N6,六、自我认同与自称,Self-Identification and Self-Reference,N6.2,6.2 主动声明的性别与代词,Explicit Gender and Pronoun Declarations,11,0.015341701534170154,0.1864406779661017
+N6,六、自我认同与自称,Self-Identification and Self-Reference,N6.3,6.3 社群内部用语,In-Group Community Terms,4,0.005578800557880056,0.06779661016949153
+N6,六、自我认同与自称,Self-Identification and Self-Reference,N6.4,6.4 职业与身份的自我定位,Occupational and Identity Self-Positioning,15,0.02092050209205021,0.2542372881355932
+N6,六、自我认同与自称,Self-Identification and Self-Reference,N6.5,6.5 艺名、网名、角色名,"Stage Names, Usernames, and Character Names",10,0.01394700139470014,0.1694915254237288
+N7,七、语言本体层面的历史残留,Lexicalized and Historically Conventional Gender Forms,N7.1,7.1 字形理据,Orthographic Motivation,16,0.022315202231520222,0.38095238095238093
+N7,七、语言本体层面的历史残留,Lexicalized and Historically Conventional Gender Forms,N7.2,7.2 敬语传统的中性化用法,Gender-Neutralized Traditional Honorifics,8,0.011157601115760111,0.19047619047619047
+N7,七、语言本体层面的历史残留,Lexicalized and Historically Conventional Gender Forms,N7.3,7.3 已中性化的复合词,Lexicalized Gender-Neutral Compounds,5,0.00697350069735007,0.11904761904761904
+N7,七、语言本体层面的历史残留,Lexicalized and Historically Conventional Gender Forms,N7.4,7.4 语法性词汇,Grammaticalized Vocabulary,10,0.01394700139470014,0.23809523809523808
+N7,七、语言本体层面的历史残留,Lexicalized and Historically Conventional Gender Forms,N7.5,7.5 惯用搭配与固定表达,Idiomatic Collocations and Fixed Expressions,3,0.0041841004184100415,0.07142857142857142
+N8,八、假触发词（形似而非）,False Gender Triggers,N8.1,8.1 建筑与工程构件,Architectural and Engineering Components,10,0.01394700139470014,0.11235955056179775
+N8,八、假触发词（形似而非）,False Gender Triggers,N8.2,8.2 机械电气与器件,"Mechanical, Electrical, and Device Terms",10,0.01394700139470014,0.11235955056179775
+N8,八、假触发词（形似而非）,False Gender Triggers,N8.3,8.3 生物农业与育种,"Biology, Agriculture, and Breeding Terms",16,0.022315202231520222,0.1797752808988764
+N8,八、假触发词（形似而非）,False Gender Triggers,N8.4,8.4 计算机与数学,Computing and Mathematics Terms,12,0.016736401673640166,0.1348314606741573
+N8,八、假触发词（形似而非）,False Gender Triggers,N8.5,8.5 组织与商业术语,Organizational and Commercial Terms,17,0.023709902370990237,0.19101123595505617
+N8,八、假触发词（形似而非）,False Gender Triggers,N8.6,8.6 固定词与成语,Fixed Expressions and Idioms,8,0.011157601115760111,0.0898876404494382
+N8,八、假触发词（形似而非）,False Gender Triggers,N8.7,8.7 专名、地名与商标,"Proper Names, Place Names, and Trademarks",15,0.02092050209205021,0.16853932584269662
+N8,八、假触发词（形似而非）,False Gender Triggers,N8.8,8.8 度量衡与其他引申,Units of Measurement and Other Extended Meanings,1,0.001394700139470014,0.011235955056179775

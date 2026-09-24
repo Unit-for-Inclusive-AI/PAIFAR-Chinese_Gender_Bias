@@ -1,0 +1,23 @@
+﻿field,applies_to,type,language,description,allowed_values
+id,both,string,language-neutral,Unique sample identifier.,NEG-#### / POS-####
+l1_id,both,categorical,English code,Stable top-level taxonomy identifier.,N1–N8 / P1–P7
+l1_category_zh,both,string,Chinese,Original Chinese L1 taxonomy label.,taxonomy-defined
+l1_category_en,both,string,English,English L1 taxonomy label.,taxonomy-defined
+l2_id,both,categorical,English code,Stable second-level taxonomy identifier.,taxonomy-defined
+l2_category_zh,both,string,Chinese,Original Chinese L2 taxonomy label.,taxonomy-defined
+l2_category_en,both,string,English,English L2 taxonomy label.,taxonomy-defined
+register_category_zh,both,categorical,Chinese,Broad register/domain category.,dataset-defined
+register_category_en,both,categorical,English,English translation of the broad register/domain category.,dataset-defined
+noise_type,both,categorical,English code,Surface noise intentionally retained in the sample.,none or a defined noise code
+input_zh,both,string,Chinese,Original Chinese model input.,free text
+reference_output_zh,both,string,Chinese,Gold-preserved text or reference rewrite.,free text
+gold_label,both,categorical,English code,Gold intervention decision.,"KEEP, EDIT"
+trigger_span_zh,both,string,Chinese,Gender-related or apparent trigger span.,free text
+difficulty,both,categorical,English code,Human-assigned difficulty tier.,"easy, medium, hard"
+preservation_rationale_zh,negative,string,Chinese,Reason the original gender information must be preserved.,free text
+common_overcorrection_zh,negative,string,Chinese,Typical incorrect overcorrection.,free text
+intervention_rationale_zh,positive,string,Chinese,Reason a gender-inclusive intervention is required.,free text
+acceptable_alternatives_zh,positive,string,Chinese,Other acceptable rewrites.,free text
+under_editing_trap_zh,positive,string,Chinese,Typical incomplete edit.,free text
+over_editing_trap_zh,positive,string,Chinese,Typical excessive edit.,free text
+required_information_zh,positive,string,Chinese,Information that must be preserved during rewriting.,free text

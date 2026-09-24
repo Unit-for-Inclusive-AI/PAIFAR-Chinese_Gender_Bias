@@ -1,0 +1,42 @@
+﻿l1_id,l1_category_zh,l1_category_en,l2_id,l2_category_zh,l2_category_en,count,dataset_share,within_l1_share
+P1,一、缺省预设（信息缺位处默认为男性）,Gendered Defaults under Missing Information,P1.1,1.1 泛指人称代词,Generic Personal Pronouns,31,0.03559127439724455,0.3229166666666667
+P1,一、缺省预设（信息缺位处默认为男性）,Gendered Defaults under Missing Information,P1.2,1.2 领属与反身形式,Possessive and Reflexive Forms,15,0.01722158438576349,0.15625
+P1,一、缺省预设（信息缺位处默认为男性）,Gendered Defaults under Missing Information,P1.4,1.4 家庭角色的默认指派,Default Assignment of Family Roles,21,0.024110218140068886,0.21875
+P1,一、缺省预设（信息缺位处默认为男性）,Gendered Defaults under Missing Information,P1.5,1.5 男性词统称混合群体,Masculine Terms for Mixed-Gender Groups,6,0.006888633754305396,0.0625
+P1,一、缺省预设（信息缺位处默认为男性）,Gendered Defaults under Missing Information,P1.7,1.7 示例人物与占位名的性别倾斜,Gender Skew in Example Persons and Placeholder Names,4,0.004592422502870264,0.041666666666666664
+P1,一、缺省预设（信息缺位处默认为男性）,Gendered Defaults under Missing Information,P1.8,1.8 译入与转写产生的默认,Gendered Defaults Introduced through Translation and Transcription,19,0.021814006888633754,0.19791666666666666
+P2,二、冗余标记（性别在场却不承载信息）,Redundant Gender Marking,P2.1,2.1 职业与身份的性别前缀,Gender Prefixes in Occupations and Identities,12,0.013777267508610792,0.41379310344827586
+P2,二、冗余标记（性别在场却不承载信息）,Redundant Gender Marking,P2.2,2.2 性别专用与阴性化称谓,Gender-Specific and Feminized Titles,2,0.002296211251435132,0.06896551724137931
+P2,二、冗余标记（性别在场却不承载信息）,Redundant Gender Marking,P2.3,2.3 标题与导语的冗余标性,Redundant Gender Marking in Headlines and Leads,3,0.003444316877152698,0.10344827586206896
+P2,二、冗余标记（性别在场却不承载信息）,Redundant Gender Marking,P2.4,2.4 服务岗位的性别化称呼与设定,Gendered Address and Role Assignment in Service Occupations,12,0.013777267508610792,0.41379310344827586
+P3,三、属性绑定（陈述性：把特质归于性别）,Gender–Attribute Associations,P3.1,3.1 性格与心理特质的本质化,Essentialized Personality and Psychological Traits,152,0.17451205510907003,0.5914396887159533
+P3,三、属性绑定（陈述性：把特质归于性别）,Gender–Attribute Associations,P3.2,3.2 能力与胜任力预设,Assumptions about Ability and Competence,25,0.02870264064293915,0.09727626459143969
+P3,三、属性绑定（陈述性：把特质归于性别）,Gender–Attribute Associations,P3.3,3.3 劳动与人生领域的分工绑定,Gendered Division of Labor and Life Domains,41,0.04707233065442021,0.15953307392996108
+P3,三、属性绑定（陈述性：把特质归于性别）,Gender–Attribute Associations,P3.4,3.4 兴趣、物品与色彩的性别化,"Gendering of Interests, Objects, and Colors",15,0.01722158438576349,0.058365758754863814
+P3,三、属性绑定（陈述性：把特质归于性别）,Gender–Attribute Associations,P3.5,3.5 外貌与身体标准的性别化,Gendered Appearance and Body Standards,9,0.010332950631458095,0.03501945525291829
+P3,三、属性绑定（陈述性：把特质归于性别）,Gender–Attribute Associations,P3.6,3.6 情绪表达与生理归因,Gendered Emotion and Physiological Attribution,10,0.011481056257175661,0.038910505836575876
+P3,三、属性绑定（陈述性：把特质归于性别）,Gender–Attribute Associations,P3.7,3.7 婚恋与择偶偏好的性别化,Gendered Dating and Partner Preferences,5,0.0057405281285878304,0.019455252918287938
+P4,四、规范说教（应然性：以性别提出要求）,Gendered Norms and Prescriptions,P4.1,4.1 应然句式,Prescriptive Constructions,76,0.08725602755453502,0.36893203883495146
+P4,四、规范说教（应然性：以性别提出要求）,Gendered Norms and Prescriptions,P4.2,4.2 资格与身份定义,Gendered Qualification and Identity Definitions,53,0.060849598163030996,0.25728155339805825
+P4,四、规范说教（应然性：以性别提出要求）,Gendered Norms and Prescriptions,P4.3,4.3 选择的性别化劝阻与限制,Gendered Discouragement and Restriction of Choices,18,0.02066590126291619,0.08737864077669903
+P4,四、规范说教（应然性：以性别提出要求）,Gendered Norms and Prescriptions,P4.4,4.4 年龄、婚育与人生进度捆绑,"Linking Age, Marriage, and Childbearing to Life Progress",21,0.024110218140068886,0.10194174757281553
+P4,四、规范说教（应然性：以性别提出要求）,Gendered Norms and Prescriptions,P4.5,4.5 传统角色规训与伦理话语,Traditional Role Discipline and Moralizing Discourse,35,0.040183696900114814,0.16990291262135923
+P4,四、规范说教（应然性：以性别提出要求）,Gendered Norms and Prescriptions,P4.6,4.6 保护式区别对待（善意歧视）,Protective Differential Treatment (Benevolent Sexism),3,0.003444316877152698,0.014563106796116505
+P5,五、关系性不对等（需比较两个对象方成立）,Relational Asymmetry,P5.1,5.1 称谓与头衔层级不对等,Asymmetry in Forms of Address and Titles,8,0.009184845005740528,0.32
+P5,五、关系性不对等（需比较两个对象方成立）,Relational Asymmetry,P5.2,5.2 姓名处理不对等,Asymmetry in Naming,1,0.001148105625717566,0.04
+P5,五、关系性不对等（需比较两个对象方成立）,Relational Asymmetry,P5.3,5.3 描述信息不对等,Asymmetry in Descriptive Information,7,0.008036739380022962,0.28
+P5,五、关系性不对等（需比较两个对象方成立）,Relational Asymmetry,P5.4,5.4 附属化定位,Relational Subordination,4,0.004592422502870264,0.16
+P5,五、关系性不对等（需比较两个对象方成立）,Relational Asymmetry,P5.7,5.7 同一行为的双标评价,Double Standards for the Same Behavior,1,0.001148105625717566,0.04
+P6,六、以性别设限与划界,Gender-Based Restrictions and Boundaries,P6.3,6.3 表单、字段与选项的强制二元,Enforced Binary Options in Forms and Fields,1,0.001148105625717566,0.016666666666666666
+P6,六、以性别设限与划界,Gender-Based Restrictions and Boundaries,P6.4,6.4 依推定的性别称谓指派,Gendered Titles Assigned by Presumption,14,0.016073478760045924,0.23333333333333334
+P6,六、以性别设限与划界,Gender-Based Restrictions and Boundaries,P6.5,6.5 准入与资格的性别限制,Gender Restrictions on Access and Eligibility,18,0.02066590126291619,0.3
+P6,六、以性别设限与划界,Gender-Based Restrictions and Boundaries,P6.6,6.6 空间、设施与分组的非必要划分,"Unnecessary Gender Segregation of Spaces, Facilities, and Groups",10,0.011481056257175661,0.16666666666666666
+P6,六、以性别设限与划界,Gender-Based Restrictions and Boundaries,P6.7,6.7 生理与医学表述的性别绝对化,Gender Absolutization in Biological and Medical Statements,17,0.01951779563719862,0.2833333333333333
+P7,七、贬损与物化（词项自带贬抑）,Gendered Derogation and Objectification,P7.1,7.1 性别化侮辱标签,Gendered Insult Labels,27,0.030998851894374284,0.13636363636363635
+P7,七、贬损与物化（词项自带贬抑）,Gendered Derogation and Objectification,P7.2,7.2 身体化与部位指代,Bodily Objectification and Body-Part Reference,6,0.006888633754305396,0.030303030303030304
+P7,七、贬损与物化（词项自带贬抑）,Gendered Derogation and Objectification,P7.3,7.3 所有权、支配与交易隐喻,"Ownership, Control, and Transaction Metaphors",8,0.009184845005740528,0.04040404040404041
+P7,七、贬损与物化（词项自带贬抑）,Gendered Derogation and Objectification,P7.4,7.4 以某一性别为标准的评价,Evaluation Against a Gendered Norm,116,0.13318025258323765,0.5858585858585859
+P7,七、贬损与物化（词项自带贬抑）,Gendered Derogation and Objectification,P7.5,7.5 性别化詈词与轻蔑语,Gendered Slurs and Contemptuous Terms,33,0.03788748564867968,0.16666666666666666
+P5,五、关系性不对等（需比较两个对象方成立）,Relational Asymmetry,P5.6,5.6 施受与主被动结构不对等,"Asymmetry in Agency, Patienthood, and Voice",2,0.002296211251435132,0.08
+P5,五、关系性不对等（需比较两个对象方成立）,Relational Asymmetry,P5.8,5.8 成就与失败的归因不对等,Asymmetry in Attributing Achievement and Failure,2,0.002296211251435132,0.08
+P7,七、贬损与物化（词项自带贬抑）,Gendered Derogation and Objectification,P7.6,7.6 受害者归责与性别化羞辱,Victim Blaming and Gendered Shaming,8,0.009184845005740528,0.04040404040404041
