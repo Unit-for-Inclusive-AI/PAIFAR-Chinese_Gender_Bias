@@ -1,0 +1,11 @@
+name: v2_prompt_positive_full871
+model_key: openai
+models_config: configs/models.yaml
+split: data/processed/positive_full_871.jsonl
+prompt: prompts/rewriter_v02_semantic_preserving.txt
+temperature: 0
+max_output_tokens: 4096
+max_tokens_field: max_tokens
+concurrency: 5
+retries: 3
+cache_db: .cache/positive_full871/v2_prompt.sqlite

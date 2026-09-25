@@ -1,0 +1,19 @@
+{
+  "dataset_version": "v2.3",
+  "counts": {
+    "total": 1588,
+    "positive": 871,
+    "negative": 717
+  },
+  "recommended_split": "group_aware_v2.3",
+  "split_counts": {
+    "exemplar_pool": 80,
+    "dev": 400,
+    "pilot": 60,
+    "test": 1108
+  },
+  "available": {
+    "group_aware_v2.3": "Template groups are kept wholly within one of exemplar/dev/test.",
+    "iid_v2.3": "Row-level stratified baseline retained only for comparison."
+  }
+}

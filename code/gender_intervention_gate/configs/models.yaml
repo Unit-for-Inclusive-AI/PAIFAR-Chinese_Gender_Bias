@@ -1,0 +1,166 @@
+models:
+  openai:
+    provider: openai
+    api_key_env: OPENAI_API_KEY
+    model_env: OPENAI_MODEL
+    base_url: null
+    timeout_seconds: 120
+  openai_judge:
+    provider: openai
+    api_key_env: OPENAI_API_KEY
+    model: gpt-4o
+    base_url: null
+    timeout_seconds: 120
+  gemini:
+    provider: gemini
+    api_key_env: GEMINI_API_KEY
+    model_env: GEMINI_MODEL
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai/
+    timeout_seconds: 120
+  deepseek:
+    provider: deepseek
+    api_key_env: DEEPSEEK_API_KEY
+    model_env: DEEPSEEK_MODEL
+    base_url: https://api.deepseek.com
+    timeout_seconds: 120
+    extra_body:
+      thinking:
+        type: enabled
+      reasoning_effort: high
+  qwen:
+    provider: qwen
+    api_key_env: QWEN_API_KEY
+    model_env: QWEN_MODEL
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+    base_url_env: QWEN_BASE_URL
+    timeout_seconds: 180
+    max_tokens_field: max_completion_tokens
+    extra_body:
+      enable_thinking: true
+      thinking_budget: 512
+  glm:
+    provider: glm
+    api_key_env: GLM_API_KEY
+    model_env: GLM_MODEL
+    base_url: https://open.bigmodel.cn/api/paas/v4/
+    timeout_seconds: 120
+    extra_body:
+      thinking:
+        type: enabled
+      reasoning_effort: high
+  local:
+    provider: local
+    api_key_env: LOCAL_API_KEY
+    model_env: LOCAL_MODEL
+    base_url_env: LOCAL_BASE_URL
+    timeout_seconds: 180
+    allow_missing_key: true
+  qwen3_5_9b_ollama:
+    provider: openai_compatible
+    base_url: http://127.0.0.1:11434/v1
+    model: qwen3.5:9b
+    temperature: 0.0
+    max_tokens: 256
+    timeout_seconds: 300
+    retries: 1
+    allow_missing_key: true
+    extra_body:
+      reasoning_effort: none
+    size_label: local_9b
+    parameter_count: 9B
+    notes: Local Qwen3.5 9B via Ollama, thinking disabled.
+    runtime: ollama
+  deepseek_llm_7b_ollama:
+    provider: openai_compatible
+    base_url: http://127.0.0.1:11434/v1
+    model: deepseek-llm:7b
+    temperature: 0.0
+    max_tokens: 512
+    timeout_seconds: 300
+    retries: 1
+    allow_missing_key: true
+    size_label: local_7b
+    parameter_count: 7B
+    notes: Local DeepSeek LLM 7B Chat via Ollama, non-reasoning.
+    runtime: ollama
+  deepseek_r1_8b_ollama:
+    provider: ollama_native
+    base_url: http://127.0.0.1:11434
+    model: deepseek-r1:8b
+    temperature: 0.0
+    max_tokens: 2048
+    timeout_seconds: 900
+    retries: 1
+    allow_missing_key: true
+    runtime: ollama
+    think: false
+    structured_output: false
+    size_label: local_8b
+    parameter_count: 8B
+  glm4_9b_ollama:
+    provider: openai_compatible
+    base_url: http://127.0.0.1:11434/v1
+    model: glm4:9b
+    temperature: 0.0
+    max_tokens: 512
+    timeout_seconds: 600
+    retries: 1
+    allow_missing_key: true
+    size_label: local_9b
+    parameter_count: 9B
+    notes: Local GLM4 9B via Ollama.
+    runtime: ollama
+  gemma2_9b_ollama:
+    provider: openai_compatible
+    base_url: http://127.0.0.1:11434/v1
+    model: gemma2:9b
+    temperature: 0.0
+    max_tokens: 512
+    timeout_seconds: 600
+    retries: 1
+    allow_missing_key: true
+    size_label: local_9b
+    parameter_count: 9B
+    notes: Local Gemma2 9B via Ollama.
+    runtime: ollama
+  llama3_1_8b_ollama:
+    provider: ollama_native
+    base_url: http://127.0.0.1:11434
+    model: llama3.1:latest
+    temperature: 0.0
+    max_tokens: 128
+    timeout_seconds: 600
+    retries: 1
+    allow_missing_key: true
+    size_label: local_8b
+    parameter_count: 8B
+    notes: Local Llama 3.1 8B via Ollama native API with label schema enforced.
+    runtime: ollama
+    structured_output: true
+  llama3_1_8b_ollama_rewriter:
+    provider: ollama_native
+    base_url: http://127.0.0.1:11434
+    model: llama3.1:latest
+    temperature: 0.0
+    max_tokens: 256
+    timeout_seconds: 600
+    retries: 1
+    allow_missing_key: true
+    size_label: local_8b
+    parameter_count: 8B
+    notes: Local Llama 3.1 8B for free-text rewriting.
+    runtime: ollama
+    structured_output: false
+  mistral_7b_ollama:
+    provider: openai_compatible
+    base_url: http://127.0.0.1:11434/v1
+    model: mistral:latest
+    temperature: 0.0
+    max_tokens: 512
+    timeout_seconds: 600
+    retries: 1
+    allow_missing_key: true
+    size_label: local_7b
+    parameter_count: 7B
+    notes: Local Mistral 7B v0.3 via Ollama.
+    runtime: ollama
